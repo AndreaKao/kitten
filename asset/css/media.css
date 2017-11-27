@@ -1,0 +1,50 @@
+
+@media (min-width: 1px) and (max-width: 666px) {
+	body {
+		background-image: url(../img/sunny-day.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+		.cat2 {
+		display: none;
+		}
+
+		.cat3 {
+		display: none;
+		}
+
+}
+
+@media (min-width: 667px) and (max-width: 1024px) {
+	 body {
+		background-image: url(../img/night.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+		.cat1 {
+			display: none;
+		}
+
+		.cat3 {
+			display: none;
+		}
+
+}
+
+
+@media (min-width: 1024px) and (max-width: 1600px) {
+	 body {
+	 	background-image: url(../img/dawn.png);
+	 	background-repeat: no-repeat;
+	 	background-size: cover;
+	}
+		.cat1 {
+			display: none;
+		}
+		
+		.cat2 {
+			display: none;
+		}
+}
+
