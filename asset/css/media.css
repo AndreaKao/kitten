@@ -4,14 +4,13 @@
 		background-image: url(../img/sunny-day.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
-	}
-
+	}	
 		.cat2 {
-		display: none;
+			display: none;
 		}
 
 		.cat3 {
-		display: none;
+			display: none;
 		}
 
 }
@@ -31,7 +30,6 @@
 		}
 
 }
-
 
 @media (min-width: 1024px) and (max-width: 1600px) {
 	 body {
